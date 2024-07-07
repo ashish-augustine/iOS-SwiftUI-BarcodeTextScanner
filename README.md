@@ -1,6 +1,5 @@
 # Live Barcode & Text Scanner iOS SwiftUI App with VisionKit
 
-![Alt text](./promo.jpg "Live Barcode & Text Scanner iOS SwiftUI App with VisionKit")
 
 ## Features
 - Live barcodes scan (Barcode, QR Code, Aztec, etc)
@@ -13,6 +12,3 @@
 
 ## Installation
 - Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
-
-## YouTube Tutorial
-- You can also follow the tutorial video at [XCA YouTube Channel](https://youtu.be/QQjLOlkxpvc)# BarcodeTextScannerSwiftUI-main
