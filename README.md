@@ -6,7 +6,9 @@
 - Live text with ability to select content type (all, url, phone, address, emaail) 
 - Use native Apple VisionKit framework, no need to import 3rd party dependencies
 
-## Requierements
+https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/issues/1#issue-2393922234 
+
+## Requirements
 - Xcode 14
 - iPhone with A12 Bionic CPU and later running iOS 16 
 
