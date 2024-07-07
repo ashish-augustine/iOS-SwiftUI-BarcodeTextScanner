@@ -9,7 +9,7 @@
 
  
 
-![Infinite-Peripherals_Linea-Pro-7_04-420x460](https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/assets/2153396/1c126fd3-b6a8-4ee9-a219-bff6b308f912)
+![Use-iOS-for-Barcode-Scanning](https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/assets/2153396/01c2d63b-78ae-4bb8-ab60-4ed2a583ddff)
 
 
 ## Requirements
