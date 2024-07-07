@@ -8,7 +8,7 @@
  
 
 
-![Alt text]([http://full/path/to/img.jpg](https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/issues/1#issue-2393922234) "Barcode scanner")
+[Alt text]([http://full/path/to/img.jpg](https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/issues/1#issue-2393922234) "Barcode scanner")
 
 
 
