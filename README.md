@@ -7,10 +7,10 @@
 - Use native Apple VisionKit framework, no need to import 3rd party dependencies
  
 
+ 
 
-[Alt text]([http://full/path/to/img.jpg](https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/issues/1#issue-2393922234) "Barcode scanner")
-
-
+![Infinite-Peripherals_Linea-Pro-7_04-420x460](https://github.com/ashish-augustine/iOS-BarcodeTextScannerSwiftUI/assets/2153396/7d82cbe1-f3de-47f9-b803-e3b5babf55c7)
+ 
 
 
 ## Requirements
