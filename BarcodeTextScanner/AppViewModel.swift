@@ -2,7 +2,7 @@
 //  AppViewModel.swift
 //  BarcodeTextScanner
 //
-//  Created by Alfian Losari on 6/25/22.
+//  Created by Ashish Augustine on 6/25/22.
 //
 
 import AVKit
