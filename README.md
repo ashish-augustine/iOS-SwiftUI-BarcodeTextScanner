@@ -1,4 +1,4 @@
-# Live Barcode & Text Scanner iOS SwiftUI App with VisionKit
+#  Barcode & Text Scanner  
 
 
 ## Features
